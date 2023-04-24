@@ -108,5 +108,6 @@ redirects = {
     "troubleshooting":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/troubleshooting",
     "tutorials/tutorials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials",
     "credentials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
-    "concepts/concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/"
+    "concepts/concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
+    "concepts/basics":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/"
 }
