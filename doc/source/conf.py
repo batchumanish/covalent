@@ -113,5 +113,10 @@ redirects = {
     "concepts/architecture":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "concepts/api_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "webapp_ui/dashboard/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
-    "api/executors/dask":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/dask/"
+    "api/executors/dask":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/dask/",
+    "api/executors/ssh":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/ssh/",
+    "api/executors/slurm":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/slurm/",
+    "api/executors/awsplugins":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/aws-plugins/",
+    "api/executors/awsec2":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/awsec2/",
+    "api/executors/awsecs":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/awsecs/",
 }

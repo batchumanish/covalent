@@ -33,7 +33,7 @@ Welcome to Covalent
    :align: right
    :width: 60%
 
-dask executor concepts
+gg executor concepts
 Covalent enables a researcher to run computation tasks on an advanced hardware platform – such as a quantum computer or serverless HPC cluster – using a single line of code.
 
 For a description of what challenges Covalent was designed to solve, see :doc:`Why Covalent? <./about/why_covalent>`. For a more in-depth discussion, see `What is Covalent? <https://www.covalent.xyz/what-is-covalent/>`_.
