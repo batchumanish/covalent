@@ -112,5 +112,6 @@ redirects = {
     "concepts/basics":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "concepts/architecture":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "concepts/api_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
-    "webapp_ui/dashboard/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/"
+    "webapp_ui/dashboard/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
+    "api/executors/local":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/"
 }
